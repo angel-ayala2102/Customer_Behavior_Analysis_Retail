@@ -93,7 +93,7 @@ pip install -r requirements.txt
 
 3. Abrir el notebook:
 ```bash
-jupyter notebook customer_behavior_analysis.ipynb
+jupyter notebook Customer_Behavior_Analysis_Retail.ipynb
 ```
 
 4. Ejecutar todas las celdas para reproducir el análisis  
