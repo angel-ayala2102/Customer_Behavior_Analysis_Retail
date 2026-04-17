@@ -104,4 +104,4 @@ jupyter notebook Customer_Behavior_Analysis_Retail.ipynb
 
 **Ángel Luis Ayala Guzmán** – Data Analyst | Machine Learning & Customer Behavior  
 
-🌐 [Portafolio](https://tu-portfolio.com) · [LinkedIn](https://www.linkedin.com/in/angel-luis-ayala) · ✉️ ayala.luis2102@gmail.com  
+🌐 [Portafolio](https://angel-ayala-portfolio.my.canva.site/) · [LinkedIn](https://www.linkedin.com/in/angel-luis-ayala) · ✉️ ayala.luis2102@gmail.com  
