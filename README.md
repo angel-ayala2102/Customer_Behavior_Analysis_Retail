@@ -1,10 +1,10 @@
 # 📊 Análisis de Segmentación de Clientes (RFM)
 
-🇪🇸 Español | 🇺🇸 English
+🇲🇽 Español | 🇺🇸 English
 
 ---
 
-## 🇪🇸 Español
+## 🇲🇽 Español
 
 Proyecto de análisis de datos enfocado en segmentar clientes a partir de su comportamiento de compra utilizando la metodología RFM (Recencia, Frecuencia y Valor Monetario).  
 El objetivo es identificar distintos perfiles de clientes y entender cómo se distribuye el valor económico dentro del negocio.
